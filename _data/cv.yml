@@ -2,96 +2,102 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Nguyen Tran Tien Dat (Dat Nguyen)
+    - name: Location
+      value: Ho Chi Minh City, Vietnam
+    - name: Phone
+      value: (+84) 867-868-737
+    - name: Email
+      value: datttn.work@gmail.com
+    - name: LinkedIn
+      value: linkedin.com/in/datnguyen-t
+
+- title: Summary
+  type: list
+  contents:
+    - Experienced Senior Erlang/OTP Engineer with 10+ years building fault-tolerant, distributed systems in cloud-native environments. Passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry. Skilled in leading cross-functional teams, designing scalable services, and debugging complex systems. Excited by mission-driven work intersecting software, infrastructure, and system observability, aligned with high-impact goals such as space sustainability and security.
+
+- title: Core Competencies
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - Erlang/OTP, Python, Bash, YANG, C/C++, Emacs Lisp
+    - title: Functional Systems
+      items:
+        - GenServers, supervision trees, hot code upgrade, state machines, fault-tolerant OTP design
+    - title: Cloud & Infrastructure
+      items:
+        - AWS (EC2, S3, Lambda), Docker, CI/CD, Prometheus, Grafana, GitLab CI, Jenkins
+    - title: Architecture
+      items:
+        - Distributed systems, cloud-native microservices, mission-critical systems, Actor model
+    - title: Protocols
+      items:
+        - SIP, Diameter, NETCONF, RESTCONF, OpenSSL, HTTP
+    - title: Databases
+      items:
+        - PostgreSQL, Mnesia, ETS/Dets, SQL, CiscoDB
+    - title: Security & Authentication
+      items:
+        - TLS, OAuth2, RBAC, OpenSSL
+    - title: Monitoring & Debugging
+      items:
+        - Prometheus, Wireshark, Common Test, Dialyzer, DBG
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Senior Erlang Cloud Engineer
+      institution: 5Gencare — Remote
+      year: Jun 2023 – Present
+      description:
+        - Architected and maintained a distributed IoT/AIoT backend built with Erlang/OTP and Mnesia
+        - Designed resilient, observable services for cloud telemetry and device management
+        - Led deployments using container-based infrastructure with GitLab CI and Docker
+        - Tech stack: Erlang/OTP, Docker, PostgreSQL, Prometheus, TLS/OpenSSL
+    - title: Cloud Systems Engineer
+      institution: Precision Development (PxD) — Remote
+      year: Jun 2022 – Jun 2023
+      description:
+        - Built distributed voice/text systems with Erlang for low-connectivity environments
+        - Designed service APIs and integrated telecom protocols for mission-critical operations
+        - Implemented metrics/tracing and solved production issues in time-sensitive communication flows
+        - Tech stack: Erlang (Cowboy), FreeSWITCH, USSD/IVR/SMS, Docker, AWS, Flask, PostgreSQL
+    - title: Cisco Consultant / Remote Engineer
+      institution: DEK Technologies Vietnam
+      year: Jan 2020 – Jun 2022
+      description:
+        - Delivered fault-tolerant network automation features in Cisco NSO using Erlang and YANG
+        - Applied Domain-Driven Design to translate networking models into business logic
+        - Resolved deep concurrency bugs and enhanced system reliability
+        - Tech stack: Erlang, Python, YANG, NETCONF, RESTCONF, Jenkins, Emacs Lisp
+    - title: Cisco Consultant / Onsite Engineer
+      institution: DEK Technologies Sweden — Stockholm, Sweden
+      year: Oct 2019 – Dec 2019
+      description:
+        - Collaborated with Cisco's architecture team to integrate scalable services across sites
+        - Led knowledge-sharing sessions on OTP design and BEAM optimization
+    - title: Ericsson Consultant
+      institution: DEK Technologies Vietnam
+      year: Nov 2016 – Nov 2019
+      description:
+        - Contributed to telecom core components (IMS SBG), improving media control, protocol handling, and fault tolerance
+        - Automated CI pipelines and led cross-disciplinary testing strategies
+        - Tech stack: Erlang, Python, SIP, Diameter, Megaco, Jenkins, Wireshark
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc. in Information Technology
+      institution: University of Information Technology, Vietnam
+      year: May 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: Built a hybrid geolocation gateway with LoRaWAN and Semtech LR1110
+        - Research: Co-authored paper on real-time GNSS/WiFi/LoRa integration
+    - title: B.Sc. in Computer Engineering
+      institution: University of Information Technology, Vietnam
+      year: Jan 2016
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Final project on solar-powered LoRa sensor systems with predictive logic
+        - Internship on resume parsing using C++ and regex
