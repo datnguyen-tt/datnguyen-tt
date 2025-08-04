@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/datttnwork7247/teaching/";
@@ -213,6 +213,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/datttnwork7247/blog/2024/chartjs/";
+          
+        },
+      },{id: "post-cloud-native-telecommunications-from-legacy-to-modern-architecture",
+        
+          title: "Cloud-Native Telecommunications: From Legacy to Modern Architecture",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/datttnwork7247/blog/2024/cloud-native-telecom/";
+          
+        },
+      },{id: "post-building-fault-tolerant-distributed-systems-with-erlang-otp",
+        
+          title: "Building Fault-Tolerant Distributed Systems with Erlang/OTP",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/datttnwork7247/blog/2024/erlang-otp-distributed-systems/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -440,25 +462,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/datttnwork7247/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-completed-m-sc-in-information-technology-with-thesis-on-hybrid-geolocation-gateway-using-lorawan-and-semtech-lr1110",
+          title: 'Completed M.Sc. in Information Technology with thesis on hybrid geolocation gateway using LoRaWAN...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-successfully-delivered-fault-tolerant-network-automation-features-in-cisco-nso-using-erlang-and-yang-at-dek-technologies",
+          title: 'Successfully delivered fault-tolerant network automation features in Cisco NSO using Erlang and YANG...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/datttnwork7247/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-dat-nguyen-has-signed-contract-with-5gencare-as-senior-erlang-cloud-engineer-focusing-on-distributed-iot-aiot-backend-development",
+          title: 'Dat Nguyen has signed contract with 5Gencare as Senior Erlang Cloud Engineer, focusing...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-distributed-iot-aiot-backend-system",
+          title: 'Distributed IoT/AIoT Backend System',
+          description: "Senior Erlang Cloud Engineer at 5Gencare - Building fault-tolerant distributed systems for IoT/AIoT telemetry and device management",
           section: "Projects",handler: () => {
               window.location.href = "/datttnwork7247/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-distributed-voice-text-communication-system",
+          title: 'Distributed Voice/Text Communication System',
+          description: "Cloud Systems Engineer at Precision Development - Building resilient communication systems for low-connectivity environments",
           section: "Projects",handler: () => {
               window.location.href = "/datttnwork7247/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
