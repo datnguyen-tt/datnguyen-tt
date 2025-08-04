@@ -28,21 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Experienced Senior Erlang/OTP Engineer with 10+ years building fault-tolerant, distributed systems in cloud-native environments. Passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry.
+My name is Dat Nguyen, and I am a Senior Erlang/OTP Engineer with over 10 years of experience building fault-tolerant, distributed systems in cloud-native environments. I am passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry.
 
-Skilled in leading cross-functional teams, designing scalable services, and debugging complex systems. Excited by mission-driven work intersecting software, infrastructure, and system observability, aligned with high-impact goals such as space sustainability and security.
+I began my career at DEK Technologies, where I contributed to telecom core components for Ericsson and later worked on network automation features for Cisco NSO. I then joined Precision Development (PxD) as a Cloud Systems Engineer, building distributed voice/text systems for low-connectivity environments. Currently, I work at 5Gencare as a Senior Erlang Cloud Engineer, architecting distributed IoT/AIoT backend systems.
 
-## Core Competencies
+I hold a Master's degree in Information Technology from the University of Information Technology, Vietnam, where my thesis focused on hybrid geolocation gateways using LoRaWAN and Semtech LR1110. My research interests include distributed systems, cloud-native architecture, and telecommunications infrastructure.
 
-**Languages:** Erlang/OTP, Python, Bash, YANG, C/C++, Emacs Lisp  
-**Functional Systems:** GenServers, supervision trees, hot code upgrade, state machines, fault-tolerant OTP design  
-**Cloud & Infrastructure:** AWS (EC2, S3, Lambda), Docker, CI/CD, Prometheus, Grafana, GitLab CI, Jenkins  
-**Architecture:** Distributed systems, cloud-native microservices, mission-critical systems, Actor model  
-**Protocols:** SIP, Diameter, NETCONF, RESTCONF, OpenSSL, HTTP  
-**Databases:** PostgreSQL, Mnesia, ETS/Dets, SQL, CiscoDB  
-**Security & Auth:** TLS, OAuth2, RBAC, OpenSSL  
-**Monitoring & Debugging:** Prometheus, Wireshark, Common Test, Dialyzer, DBG
-
-My work focuses on building resilient, scalable systems that can handle the demands of modern telecommunications and IoT applications. I'm passionate about applying functional programming principles to solve complex distributed systems challenges.
-
-Connect with me on social media to stay updated on my latest projects and insights in distributed systems and telecommunications.
+Beyond my professional work, I am passionate about open-source development and contributing to the Erlang/OTP ecosystem. I believe in building systems that are not only technically robust but also scalable and maintainable for long-term success.
