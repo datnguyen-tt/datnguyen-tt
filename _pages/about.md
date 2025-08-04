@@ -43,6 +43,6 @@ Skilled in leading cross-functional teams, designing scalable services, and debu
 **Security & Auth:** TLS, OAuth2, RBAC, OpenSSL  
 **Monitoring & Debugging:** Prometheus, Wireshark, Common Test, Dialyzer, DBG
 
-You can add your profile picture by naming it `prof_pic.jpg` and placing it in the `img/` folder. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
+My work focuses on building resilient, scalable systems that can handle the demands of modern telecommunications and IoT applications. I'm passionate about applying functional programming principles to solve complex distributed systems challenges.
 
-Link to your social media connections below. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/).
+Connect with me on social media to stay updated on my latest projects and insights in distributed systems and telecommunications.

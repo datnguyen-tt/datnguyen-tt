@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - datttnwork7247
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - datttnwork7247/datttnwork7247
+  - datttnwork7247/erlang-otp-examples
+  - datttnwork7247/telecom-protocols
+  - datttnwork7247/geolocation-gateway
+  - datttnwork7247/cloud-native-telecom
+  - datttnwork7247/distributed-systems
+  - datttnwork7247/iot-backend
