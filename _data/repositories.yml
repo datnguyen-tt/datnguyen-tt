@@ -1,13 +1,13 @@
 github_users:
-  - datttnwork7247
+  - datnguyen-tt
 
 repo_description_lines_max: 2
 
 github_repos:
-  - datttnwork7247/datttnwork7247
-  - datttnwork7247/erlang-otp-examples
-  - datttnwork7247/telecom-protocols
-  - datttnwork7247/geolocation-gateway
-  - datttnwork7247/cloud-native-telecom
-  - datttnwork7247/distributed-systems
-  - datttnwork7247/iot-backend
+  - datnguyen-tt.github.io/datnguyen-tt.github.io
+  - datnguyen-tt.github.io/erlang-otp-examples
+  - datnguyen-tt.github.io/telecom-protocols
+  - datnguyen-tt.github.io/geolocation-gateway
+  - datnguyen-tt.github.io/cloud-native-telecom
+  - datnguyen-tt.github.io/distributed-systems
+  - datnguyen-tt.github.io/iot-backend
