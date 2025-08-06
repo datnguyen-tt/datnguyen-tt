@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://datttnwork7247.github.io/sitemap.xml
+Sitemap: https://datnguyen-tt.github.io/sitemap.xml
