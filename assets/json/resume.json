@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Nguyen Tran Tien Dat (Dat Nguyen)",
-    "label": "Senior Erlang/OTP Engineer",
+    "label": "Principal Backend Architect – Erlang/OTP",
     "image": "",
     "email": "datttn.work@gmail.com",
     "phone": "(+84) 867-868-737",
     "url": "https://datnguyen-tt.github.io",
-    "summary": "Experienced Senior Erlang/OTP Engineer with 10+ years building fault-tolerant, distributed systems in cloud-native environments. Passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry. Skilled in leading cross-functional teams, designing scalable services, and debugging complex systems. Excited by mission-driven work intersecting software, infrastructure, and system observability, aligned with high-impact goals such as space sustainability and security.",
+    "summary": "Principal Backend Architect - Erlang/OTP Engineer with 10+ years building fault-tolerant, distributed systems in cloud-native environments. Passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry. Skilled in leading cross-functional teams, designing scalable services, and debugging complex systems. Excited by mission-driven work intersecting software, infrastructure, and system observability, aligned with high-impact goals such as space sustainability and security.",
     "location": {
       "address": "Ho Chi Minh City",
       "postalCode": "",
@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "5Gencare",
-      "position": "Senior Erlang Cloud Engineer",
+      "name": "5GenCare",
+      "position": "Principal Backend Architect - Erlang/OTP Engineer",
       "url": "",
       "startDate": "2023-06-01",
       "endDate": "",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Precision Development (PxD)",
-      "position": "Cloud Systems Engineer",
+      "position": "Senior Full-Stack Engineer – Cloud Systems",
       "url": "",
       "startDate": "2022-06-01",
       "endDate": "2023-06-01",

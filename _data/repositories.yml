@@ -4,10 +4,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - datnguyen-tt.github.io/datnguyen-tt.github.io
-  - datnguyen-tt.github.io/erlang-otp-examples
-  - datnguyen-tt.github.io/telecom-protocols
-  - datnguyen-tt.github.io/geolocation-gateway
-  - datnguyen-tt.github.io/cloud-native-telecom
-  - datnguyen-tt.github.io/distributed-systems
-  - datnguyen-tt.github.io/iot-backend
+  - datnguyen-tt/datnguyen-tt.github.io
+  - datnguyen-tt/erlang_ts
+  - datnguyen-tt/pingpong_application
+  - datnguyen-tt/al-folio
+  - datnguyen-tt/erl-trace
+  - datnguyen-tt/restclient
+  - datnguyen-tt/prometheus-cowboy
+  - datnguyen-tt/dshell
+  - datnguyen-tt/edts

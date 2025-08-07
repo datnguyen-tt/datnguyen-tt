@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Nguyen Tran Tien Dat (Dat Nguyen)
+      value: Nguyen Tran Tien **Dat** (**Dat** Nguyen)
     - name: Location
       value: Ho Chi Minh City, Vietnam
     - name: Phone
@@ -15,7 +15,7 @@
 - title: Summary
   type: list
   contents:
-    - Experienced Senior Erlang/OTP Engineer with 10+ years building fault-tolerant, distributed systems in cloud-native environments. Passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry. Skilled in leading cross-functional teams, designing scalable services, and debugging complex systems. Excited by mission-driven work intersecting software, infrastructure, and system observability, aligned with high-impact goals such as space sustainability and security.
+    - Principal Backend Architect - Erlang/OTP Engineer with 10+ years building fault-tolerant, distributed systems in cloud-native environments. Passionate about applying functional programming and resilient architecture to high-availability platforms supporting real-time communication, automation, and telemetry. Skilled in leading cross-functional teams, designing scalable services, and debugging complex systems. Excited by mission-driven work intersecting software, infrastructure, and system observability, aligned with high-impact goals such as space sustainability and security.
 
 - title: Core Competencies
   type: nested_list
@@ -48,7 +48,7 @@
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Senior Erlang Cloud Engineer
+    - title: Principal Backend Architect - Erlang/OTP Engineer
       institution: 5Gencare — Remote
       year: Jun 2023 – Present
       description:
@@ -56,7 +56,7 @@
         - Designed resilient, observable services for cloud telemetry and device management
         - Led deployments using container-based infrastructure with GitLab CI and Docker
         - Tech stack: Erlang/OTP, Docker, PostgreSQL, Prometheus, TLS/OpenSSL
-    - title: Cloud Systems Engineer
+    - title: Senior Full-Stack Cloud Engineer
       institution: Precision Development (PxD) — Remote
       year: Jun 2022 – Jun 2023
       description:

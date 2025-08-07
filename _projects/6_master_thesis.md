@@ -2,7 +2,7 @@
 layout: page
 title: Hybrid Geolocation Gateway with LoRaWAN
 description: Master's Thesis - Built a hybrid geolocation gateway with LoRaWAN and Semtech LR1110
-img: assets/img/ml_infrastructure.jpg
+img: assets/img/lorawan_relay.jpg
 importance: 6
 category: thesis
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: Solar-Powered LoRa Sensor Systems
 description: Bachelor's Thesis - Final project on solar-powered LoRa sensor systems with predictive logic
-img: assets/img/blockchain.jpg
+img: assets/img/weather_forecast.jpg
 importance: 7
 category: thesis
 related_publications: true

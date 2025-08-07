@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Distributed IoT/AIoT Backend System
-description: Senior Erlang Cloud Engineer at 5Gencare - Building fault-tolerant distributed systems for IoT/AIoT telemetry and device management
+description: Principal Backend Architect - Erlang/OTP Engineer at 5GenCare - Building fault-tolerant distributed systems for IoT/AIoT telemetry and device management
 img: assets/img/iot_backend.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+
 
 ## Project Overview
 
