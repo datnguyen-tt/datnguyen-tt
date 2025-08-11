@@ -428,7 +428,47 @@ ninja.data = [{
           section: "News",},{id: "news-dat-nguyen-has-signed-contract-with-5gencare-as-erlang-cloud-engineer-focusing-on-distributed-iot-aiot-backend-development",
           title: 'Dat Nguyen has signed contract with 5Gencare as Erlang Cloud Engineer, focusing on...',
           description: "",
-          section: "News",},{id: "projects-iot-network-infrastructure-and-edge-computing",
+          section: "News",},{id: "projects-distributed-iot-aiot-backend-system",
+          title: 'Distributed IoT/AIoT Backend System',
+          description: "Principal Backend Architect - Erlang/OTP Engineer at 5GenCare - Building fault-tolerant distributed systems for IoT/AIoT telemetry and device management",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_iot_backend/";
+            },},{id: "projects-distributed-voice-text-communication-system",
+          title: 'Distributed Voice/Text Communication System',
+          description: "Cloud Systems Engineer at Precision Development - Building resilient communication systems for low-connectivity environments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_ivr/";
+            },},{id: "projects-cisco-nso-network-automation-platform",
+          title: 'Cisco NSO Network Automation Platform',
+          description: "Cisco Consultant / Remote Engineer at DEK Technologies Vietnam - Delivering fault-tolerant network automation features using Erlang and YANG",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_nso/";
+            },},{id: "projects-cisco-architecture-integration-project",
+          title: 'Cisco Architecture Integration Project',
+          description: "Cisco Consultant / Onsite Engineer at DEK Technologies Sweden - Collaborating with Cisco&#39;s architecture team on scalable services integration",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_confd/";
+            },},{id: "projects-ericsson-telecom-core-components-ims-sbg",
+          title: 'Ericsson Telecom Core Components (IMS SBG)',
+          description: "Ericsson Consultant at DEK Technologies Vietnam - Contributing to telecom core components with media control and protocol handling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_sbg/";
+            },},{id: "projects-hybrid-geolocation-gateway-with-lorawan",
+          title: 'Hybrid Geolocation Gateway with LoRaWAN',
+          description: "Master&#39;s Thesis - Built a hybrid geolocation gateway with LoRaWAN and Semtech LR1110",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_master_thesis/";
+            },},{id: "projects-solar-powered-lora-sensor-systems",
+          title: 'Solar-Powered LoRa Sensor Systems',
+          description: "Bachelor&#39;s Thesis - Final project on solar-powered LoRa sensor systems with predictive logic",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_thesis/";
+            },},{id: "projects-telecom-service-orchestration-platform",
+          title: 'Telecom Service Orchestration Platform',
+          description: "Senior Software Architect - Designing and implementing scalable service orchestration for telecommunications infrastructure",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_sms/";
+            },},{id: "projects-iot-network-infrastructure-and-edge-computing",
           title: 'IoT Network Infrastructure and Edge Computing',
           description: "Research Thesis - Design and optimization of edge computing architectures for IoT and telecommunications applications",
           section: "Projects",handler: () => {
