@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: erlang/otp,functional-programming,telecom-systems,backend-development,distributed-systems,microservices,high-availability,scalability,resilience,fault-tolerance,sip-stack,diameter-routing,protocol-parsing,network-automation,yang,netconf,restconf,snmp,ims,sip,diameter,megaco,freeswitch,session-border-controller-(sbc),media-control,ussd,ivr,multi-channel-messaging,real-time-systems
 lang: en, vi # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: Đ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: dogecoin_black.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://datnguyen-tt.github.io # the base hostname & protocol for your site
 baseurl:

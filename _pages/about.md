@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Distributed Systems | Erlang/OTP | IoT/Telecom | Cloud Infra 
+subtitle: Distributed Systems | Erlang/OTP | IoT/Telecom | Cloud Infra
 
 profile:
   align: right
