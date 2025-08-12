@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Projects that I worked on",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -419,7 +419,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-completed-m-sc-in-information-technology-with-thesis-on-hybrid-geolocation-gateway-using-lorawan-and-semtech-lr1110",
+            },},{id: "news-dat-nguyen-has-completed-b-sc-in-computer-engineering",
+          title: 'Dat Nguyen has completed B.Sc. in Computer Engineering',
+          description: "",
+          section: "News",},{id: "news-dat-nguyen-has-started-as-ericsson-consultant-at-dek-technologies",
+          title: 'Dat Nguyen has started as Ericsson Consultant at DEK Technologies',
+          description: "",
+          section: "News",},{id: "news-dat-nguyen-has-relocated-to-stockholm-for-cisco-collaboration",
+          title: 'Dat Nguyen has relocated to Stockholm for Cisco collaboration',
+          description: "",
+          section: "News",},{id: "news-dat-nguyen-has-joined-dek-technologies-as-cisco-consultant",
+          title: 'Dat Nguyen has joined DEK Technologies as Cisco Consultant',
+          description: "",
+          section: "News",},{id: "news-completed-m-sc-in-information-technology-with-thesis-on-hybrid-geolocation-gateway-using-lorawan-and-semtech-lr1110",
           title: 'Completed M.Sc. in Information Technology with thesis on hybrid geolocation gateway using LoRaWAN...',
           description: "",
           section: "News",},{id: "news-successfully-delivered-fault-tolerant-network-automation-features-in-cisco-nso-using-erlang-and-yang-at-dek-technologies",
