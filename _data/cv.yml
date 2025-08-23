@@ -22,34 +22,40 @@
   contents:
     - title: Languages
       items:
-        - Erlang/OTP, Python, Bash, YANG, C/C++, Emacs Lisp
+        - Erlang/OTP, Python, Bash, YANG, C/C++, HTML, CSS, JavaScript, YML, Emacs Lisp
     - title: Functional Systems
       items:
-        - GenServers, supervision trees, hot code upgrade, state machines, fault-tolerant OTP design
+        - GenServers, supervision trees, hot code upgrade, state machines, fault-tolerant OTP design, Distributed Erlang
     - title: Cloud & Infrastructure
       items:
-        - AWS (EC2, S3, Lambda), Docker, CI/CD, Prometheus, Grafana, GitLab CI, Jenkins
+        - AWS (EC2, S3, Lambda), Docker, Docker Swarm, CI/CD, Prometheus, Grafana, GitLab CI, Jenkins
     - title: Architecture
       items:
-        - Distributed systems, cloud-native microservices, mission-critical systems, Actor model
+        - Distributed systems, cloud-native microservices, mission-critical systems, Actor model, NSO - Network Services Orchestrator, IMS - IP Multimedia Subsystem
     - title: Protocols
       items:
-        - SIP, Diameter, NETCONF, RESTCONF, OpenSSL, HTTP
+        - SIP, Diameter, Megaco, NETCONF, RESTCONF, OpenSSL, HTTP
     - title: Databases
       items:
-        - PostgreSQL, Mnesia, ETS/Dets, SQL, CiscoDB
+        - PostgreSQL, Mnesia, ETS/Dets, SQL, CiscoDB, NoSQL, PgAdmin, DBeaver
     - title: Security & Authentication
       items:
         - TLS, OAuth2, RBAC, OpenSSL
     - title: Monitoring & Debugging
       items:
-        - Prometheus, Wireshark, Common Test, Dialyzer, DBG
+        - Prometheus, Wireshark, Common Test, Dialyzer, DBG, EDTS, Lux Test framework
+    - title: Hardware & IoT
+      items:
+        - LoRa/LoRaWAN, Semtech LR1110, ARM Cortex-M4, STM32F4, PID controllers, Fuzzy Logic, RTOS
+    - title: Research & Development
+      items:
+        - Scientific research methodology, GNSS/WiFi/LoRa integration, Multi-standard geolocation systems, Solar-powered systems
 
 - title: Professional Experience
   type: time_table
   contents:
     - title: Principal Backend Architect - Erlang/OTP Engineer
-      institution: 5Gencare — Remote
+      institution: 5Gencare — Hong Kong, China (Remote)
       year: Jun 2023 – Present
       description:
         - Architected and maintained a distributed IoT/AIoT backend built with Erlang/OTP and Mnesia
@@ -57,7 +63,7 @@
         - Led deployments using container-based infrastructure with GitLab CI and Docker
         - Tech stack: Erlang/OTP, Docker, PostgreSQL, Prometheus, TLS/OpenSSL
     - title: Senior Full-Stack Cloud Engineer
-      institution: Precision Development (PxD) — Remote
+      institution: Precision Development (PxD) — Newton, America (Remote)
       year: Jun 2022 – Jun 2023
       description:
         - Built distributed voice/text systems with Erlang for low-connectivity environments
@@ -65,7 +71,7 @@
         - Implemented metrics/tracing and solved production issues in time-sensitive communication flows
         - Tech stack: Erlang (Cowboy), FreeSWITCH, USSD/IVR/SMS, Docker, AWS, Flask, PostgreSQL
     - title: Cisco Consultant / Remote Engineer
-      institution: DEK Technologies Vietnam
+      institution: DEK Technologies Vietnam — Ho Chi Minh, Vietnam
       year: Jan 2020 – Jun 2022
       description:
         - Delivered fault-tolerant network automation features in Cisco NSO using Erlang and YANG
@@ -78,8 +84,9 @@
       description:
         - Collaborated with Cisco's architecture team to integrate scalable services across sites
         - Led knowledge-sharing sessions on OTP design and BEAM optimization
+        - Participated in cultural activities and team building in international environment
     - title: Ericsson Consultant
-      institution: DEK Technologies Vietnam
+      institution: DEK Technologies Vietnam — Ho Chi Minh, Vietnam
       year: Nov 2016 – Nov 2019
       description:
         - Contributed to telecom core components (IMS SBG), improving media control, protocol handling, and fault tolerance
@@ -93,11 +100,45 @@
       institution: University of Information Technology, Vietnam
       year: May 2022
       description:
-        - Thesis: Built a hybrid geolocation gateway with LoRaWAN and Semtech LR1110
-        - Research: Co-authored paper on real-time GNSS/WiFi/LoRa integration
+        - "**Thesis**: Built a hybrid geolocation gateway with LoRaWAN and Semtech LR1110"
+        - "**Research Paper**: Co-authored paper on real-time GNSS/WiFi/LoRa integration for multi-standard geolocation applications"
+        - "**Innovation**: Developed LoRaWAN packet forwarding device (Relay virtual Gateway) solving installation, coverage, cost and energy challenges"
+        - "**Technical**: Multi-standard Semtech LR1110 components integrated into multiple antenna platform with indoor WiFi Passive scanning and outdoor GNSS positioning"
     - title: B.Sc. in Computer Engineering
       institution: University of Information Technology, Vietnam
       year: Jan 2016
       description:
-        - Final project on solar-powered LoRa sensor systems with predictive logic
-        - Internship on resume parsing using C++ and regex
+        - "**Final Project**: Local Weather Forecast Equipment using LoRa wireless transmission, star network topology, solar batteries and Fuzzy logic for improved accuracy"
+        - "**Research**: Environmental parameter measurement and processing from weather forecast channels for accurate local predictions"
+        - "**Technical**: ARM Cortex-M4-based STM32F4 MCU series, PID controllers, RTOS, power supply design"
+        - "**Achievements**: 1st prize in 'Student scientific research projects' (2017), 2nd prize in 'Creative Ideas' Grant (2015), 'Students of 5 merits' award (2014)"
+
+
+- title: Research & Projects
+  type: time_table
+  contents:
+    - title: LoRaWAN Relay Research Project
+      institution: University of Information Technology (Postgraduate)
+      year: Jun 2020 – Jun 2021
+      description:
+        - "**Research Focus**: LoRaWAN packet forwarding device acting as virtual Gateway Relay"
+        - "**Innovation**: Multi-standard system for geolocation applications integrating Semtech LR1110 components"
+        - "**Technical Implementation**: Indoor WiFi Passive scanning + Outdoor GNSS positioning + LoRa communication"
+        - "**Outcome**: Scientific paper contribution and product design/implementation"
+    - title: CV Parser Tool Development
+      institution: Global Cyber Soft Vietnam / Hitachi Consulting (Internship - Team Lead)
+      year: Mar 2016 – Jun 2016
+      description:
+        - "**Project**: CV parsing tool for converting PDF/Word documents to archived database"
+        - "**Role**: Team Lead managing planning, tasks, and release timeline"
+        - "**Technical**: Regex-based string conversion, C/C++ programming, ODBC, TinyXML"
+        - "**Skills**: Team building, project management, resource optimization"
+
+- title: Interests
+  type: list
+  contents:
+    - Blockchain technology, cryptocurrencies, and distributed ledger systems
+    - Functional programming and distributed systems architecture
+    - IoT and edge computing solutions
+    - Open source software development
+    - Scientific research and academic collaboration
