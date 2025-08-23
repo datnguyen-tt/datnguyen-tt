@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: erlang/otp,functional-programming,telecom-systems,backend-development,distributed-systems,microservices,high-availability,scalability,resilience,fault-tolerance,sip-stack,diameter-routing,protocol-parsing,network-automation,yang,netconf,restconf,snmp,ims,sip,diameter,megaco,freeswitch,session-border-controller-(sbc),media-control,ussd,ivr,multi-channel-messaging,real-time-systems
-lang: en, vi # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: dogecoin_black.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://datnguyen-tt.github.io # the base hostname & protocol for your site
@@ -32,7 +32,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 

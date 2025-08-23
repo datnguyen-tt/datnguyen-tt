@@ -6,10 +6,10 @@ repo_description_lines_max: 2
 github_repos:
   - datnguyen-tt/datnguyen-tt.github.io
   - datnguyen-tt/erlang_ts
-  - datnguyen-tt/pingpong_application
-  - datnguyen-tt/al-folio
-  - datnguyen-tt/erl-trace
-  - datnguyen-tt/restclient
-  - datnguyen-tt/prometheus-cowboy
   - datnguyen-tt/dshell
   - datnguyen-tt/edts
+  - datnguyen-tt/erl-trace
+  - datnguyen-tt/pingpong_application
+  - datnguyen-tt/al-folio
+  - datnguyen-tt/restclient
+  - datnguyen-tt/prometheus-cowboy
