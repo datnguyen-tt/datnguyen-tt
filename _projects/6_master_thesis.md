@@ -2,13 +2,15 @@
 layout: page
 title: Hybrid Geolocation Gateway with LoRaWAN
 description: Master's Thesis - Built a hybrid geolocation gateway with LoRaWAN and Semtech LR1110
-img: assets/img/lorawan_relay.jpg
+img: assets/img/lorawan.png
 importance: 6
 category: thesis
 related_publications: true
 ---
 
 ## Research Overview
+
+{% include figure.liquid path="assets/img/lorawan_gateway.jpg" alt="LoRaWAN Geolocation Gateway" caption="LoRa Satellite for IoT Connectivity" %}
 
 My master's thesis focused on building a hybrid geolocation gateway with LoRaWAN and Semtech LR1110. The research explored real-time GNSS/WiFi/LoRa integration for precise location tracking in IoT applications, contributing to the advancement of geolocation technologies.
 
@@ -34,6 +36,7 @@ My master's thesis focused on building a hybrid geolocation gateway with LoRaWAN
 - **Location Algorithms**: Advanced algorithms for position estimation
 - **Data Integration**: Seamless integration of GNSS, WiFi, and LoRa data
 
+{% include figure.liquid path="assets/img/semtech_lorawan.jpg" alt="Semtech Collaborates" caption="Semtech Collaborates" %}
 ## Key Innovations
 
 ### Hybrid Positioning System
@@ -73,6 +76,8 @@ The research resulted in:
 - **Conference Presentation**: Presented at IEEE International Conference on IoT
 - **Open Source**: Implementation available on GitHub with 300+ stars
 - **Industry Adoption**: Framework adopted by 2 IoT companies
+
+{% include figure.liquid url="asserts/img/5g.png" alt="Future IoT and Geolocation Technology" caption="Future IoT and geolocation technology integration with 5G networks" %}
 
 ## Future Work
 

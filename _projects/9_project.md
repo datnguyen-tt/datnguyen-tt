@@ -2,13 +2,15 @@
 layout: page
 title: IoT Network Infrastructure and Edge Computing
 description: Research Thesis - Design and optimization of edge computing architectures for IoT and telecommunications applications
-img: assets/img/edge_computing.jpg
+img: https://plus.unsplash.com/premium_photo-1688678097473-2ce11d23e30c?q=80&w=970&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 importance: 9
 category: thesis
 related_publications: true
 ---
 
 ## Research Overview
+
+{% include figure.liquid url="https://images.unsplash.com/photo-1555664424-778a1e5e1b48?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="IoT Network Infrastructure" caption="Modern IoT network infrastructure and edge computing architecture" %}
 
 My research thesis focused on IoT network infrastructure and edge computing, specifically designing and optimizing edge computing architectures for IoT and telecommunications applications. The research explored how edge computing can reduce latency, improve privacy, and enhance reliability for IoT deployments in telecom environments.
 
@@ -48,6 +50,8 @@ My research thesis focused on IoT network infrastructure and edge computing, spe
 - **Energy Efficiency**: 60% improvement in battery life for IoT devices
 - **Scalability**: Support for 10,000+ concurrent IoT devices
 
+{% include figure.liquid url="https://images.unsplash.com/photo-1636357582639-27620e21d7c5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Edge Computing Performance" caption="High-performance edge computing infrastructure and data processing" %}
+
 ## Experimental Results
 
 ### Test Environment
@@ -73,6 +77,8 @@ The research resulted in:
 - **Journal Article**: Published in IEEE Internet of Things Journal
 - **Open Source**: Edge computing framework with 2000+ GitHub stars
 - **Industry Adoption**: Framework adopted by 10+ IoT and telecom companies
+
+{% include figure.liquid url="https://images.unsplash.com/photo-1610878785620-3ab2d3a2ae7b?q=80&w=1420&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Telecom Network Infrastructure" caption="Telecommunications network infrastructure and 5G integration" %}
 
 ## Future Work
 
